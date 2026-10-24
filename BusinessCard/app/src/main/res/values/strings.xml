@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Business Card</string>
+    <string name="lorin_m_zohd">LORIN M. Zohd</string>
+    <string name="ai_amp_data_science_specialist"><![CDATA[AI & Data Science Specialist]]></string>
+    <string name="phone_icon">Phone Icon</string>
+    <string name="_972_56_792_1061">+972 56-792-1061</string>
+    <string name="share_icon">Share Icon</string>
+    <string name="email_icon">Email Icon</string>
+    <string name="lorin_zohd_gmail_com">lorin.zohd@gmail.com</string>
+</resources>
